@@ -26,10 +26,22 @@
 
 *Графики выведены в файле.
 - Статистические данные количеству символов слов и предложений
+  
 - Анализ длины слов
+<div align="center">
+<img src="word_stat.png" width="600" alt="Статистика по словам">
+</div>
+
 - Индекс читаемости (Flesch Reading Ease, Flesch-Kincaid Grade Level, Gunning Fog и SMOG Index, Automated Readability и Dale-Chall)
+<div align="center">
+<img src="ru_read_ind.png" width="380" alt="Индекс читаемости (русский)">
+<img src="en_read_ind.png" width="600" alt="Индекс читаемости (английский)">
+</div>
+
 - Частотный анализ
+  
 - Частеречный анализ
+  
 - TTR (Type-Token Ratio)
   
   
